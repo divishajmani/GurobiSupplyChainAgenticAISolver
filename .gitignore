@@ -1,0 +1,16 @@
+# Secret Environment Variables
+.env
+.env.local
+*.env
+
+# Virtual Environments & Cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
